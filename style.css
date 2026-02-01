@@ -23,6 +23,13 @@ body {
     color: #333; /* Ajutez avec votre couleur de texte principale */
     background-color: #f9f9f9; /* Ajutez avec votre couleur de fond principale */
 }
+ .Prix {
+   align-items: center;
+   
+ }
+
+ span 
+ 
 
 /* ========================================
    VOTRE CODE CSS ICI
